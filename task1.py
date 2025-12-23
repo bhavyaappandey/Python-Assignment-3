@@ -7,5 +7,5 @@ def factorial(n):
     return result
 
 num = int(input("Enter a number: "))
-print("Factorial is:", factorial(num))
+print("Factorial of", num, "is:", factorial(num))
 
